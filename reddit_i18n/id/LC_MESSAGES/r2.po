@@ -38,11 +38,11 @@ msgstr "Pesan anda telah dikirimkan"
 
 #: r2/controllers/api.py:356
 msgid "no title found"
-msgstr ""
+msgstr "judul tidak ditemukan"
 
 #: r2/controllers/api.py:550 r2/controllers/promotecontroller.py:394
 msgid "added"
-msgstr ""
+msgstr "telah ditambah"
 
 #: r2/controllers/api.py:577 r2/controllers/api.py:1089
 #: r2/controllers/api.py:1247 r2/controllers/api.py:1362
@@ -58,7 +58,7 @@ msgstr "telah disimpan"
 
 #: r2/controllers/api.py:609
 msgid "you should be getting a verification email shortly."
-msgstr ""
+msgstr "anda akan segera menerima email verifikasi dalam waktu dekat"
 
 #: r2/controllers/api.py:611
 msgid "your email has been updated"
@@ -74,7 +74,7 @@ msgstr "password anda telah diperbaharui"
 
 #: r2/controllers/api.py:901
 msgid "replied"
-msgstr ""
+msgstr "telah dibalas"
 
 #: r2/controllers/api.py:962
 msgid "shared"
